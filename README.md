@@ -12,5 +12,7 @@ We are currently maintaining the following repositories, with more methods and p
 - [**Jittor-NODE**](https://github.com/SCU-JittorMed/Jittor-NODE): A Jittor-based fixed-step solver for Neural ODEs, including support for the nmODE variant.
 - [**Jittor-SimplTrans**](https://github.com/SCU-JittorMed/Jittor-SimplTrans): A simplified and efficient Transformer variant designed to improve accuracy and computational cost.
 - [**Jittor-AugmentBN**](https://github.com/SCU-JittorMed/Jittor-AugmentBN): An enhanced Batch Normalization variant for training with the small batch size.
+- [**Jittor-Jittor-MentalHealth**](https://github.com/SCU-JittorMed/Jittor-MentalHealth): A Jittor-based mental health analysis model.
+- [**Jittor-AI4TB**](https://github.com/SCU-JittorMed/Jittor-AI4TB): A Jittor-based pulmonary tuberculosis segmentation model.
 
-We thank **Shengqian Zhu** and **Haiying Luo** for their efforts in maintaining the repositories.
+We thank **Shengqian Zhu**, **Haiying Luo**, **Xiang Li**, **Lingyu Zhou** for their efforts in maintaining the repositories.
